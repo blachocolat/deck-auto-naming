@@ -1,11 +1,11 @@
 # Deck Auto Naming
 ## Notice
 
-- This is UNOFFICIAL project and you use at your own risk.
+- This is \*\*UNOFFICIAL\*\* project and you use at your own risk.
 - This software has been tested only with `python==3.7.4`.
 
 ## Install
-Download `got/` & `got3/` from [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) and place them into `modules/`.
+Copy `got/` & `got3/` from [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) into `modules/`.
 
 Then,
 
