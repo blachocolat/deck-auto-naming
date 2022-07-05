@@ -9,7 +9,7 @@ cssselect==1.1.0
 idna==2.8
 joblib==0.13.2
 lxml==4.6.5
-numpy==1.17.2
+numpy==1.22.0
 pycparser==2.19
 pyOpenSSL==19.0.0
 pyquery==1.4.0
