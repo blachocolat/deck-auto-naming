@@ -8,7 +8,7 @@ cryptography==3.3.2
 cssselect==1.1.0
 idna==2.8
 joblib==0.13.2
-lxml==4.6.5
+lxml==4.9.1
 numpy==1.22.0
 pycparser==2.19
 pyOpenSSL==19.0.0
